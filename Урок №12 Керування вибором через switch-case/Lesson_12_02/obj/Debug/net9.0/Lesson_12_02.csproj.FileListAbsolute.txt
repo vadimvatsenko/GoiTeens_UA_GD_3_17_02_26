@@ -1,0 +1,14 @@
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\bin\Debug\net9.0\Lesson_12_02.exe
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\bin\Debug\net9.0\Lesson_12_02.deps.json
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\bin\Debug\net9.0\Lesson_12_02.runtimeconfig.json
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\bin\Debug\net9.0\Lesson_12_02.dll
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\bin\Debug\net9.0\Lesson_12_02.pdb
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.AssemblyInfoInputs.cache
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.AssemblyInfo.cs
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.csproj.CoreCompileInputs.cache
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.dll
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\refint\Lesson_12_02.dll
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.pdb
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\Lesson_12_02.genruntimeconfig.cache
+P:\Projects\Rider\GoiTeens_UA_\Lesson_12_02\obj\Debug\net9.0\ref\Lesson_12_02.dll

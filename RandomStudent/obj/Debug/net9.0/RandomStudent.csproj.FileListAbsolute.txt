@@ -1,0 +1,14 @@
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\bin\Debug\net9.0\RandomStudent.exe
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\bin\Debug\net9.0\RandomStudent.deps.json
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\bin\Debug\net9.0\RandomStudent.runtimeconfig.json
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\bin\Debug\net9.0\RandomStudent.dll
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\bin\Debug\net9.0\RandomStudent.pdb
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.AssemblyInfoInputs.cache
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.AssemblyInfo.cs
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.csproj.CoreCompileInputs.cache
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.dll
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\refint\RandomStudent.dll
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.pdb
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\RandomStudent.genruntimeconfig.cache
+P:\Projects\Rider\GoiTeens_UA_\RandomStudent\obj\Debug\net9.0\ref\RandomStudent.dll

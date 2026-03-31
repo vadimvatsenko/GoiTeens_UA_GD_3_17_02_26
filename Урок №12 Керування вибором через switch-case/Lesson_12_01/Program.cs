@@ -10,11 +10,20 @@ enum ItemType
     Exit, // 3
 }
 
+enum AnimalType
+{
+    Idle,
+    Move,
+    Death
+}
+
 
 public class Program
 {
     public static void Main()
     {
+        
+        
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
         
@@ -27,6 +36,7 @@ public class Program
         {
             case ItemType.Posion:
                 Console.WriteLine("You buy a Posion");
+                Console.ReadKey();
                 break;
             case ItemType.Sword:
                 Console.WriteLine("You buy a Sword");

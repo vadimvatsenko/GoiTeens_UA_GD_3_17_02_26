@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Vadym",
+    "Password": "Qwerty123",
+    "PlayerData": {
+      "Weapons": [],
+      "Health": 100,
+      "Level": 3,
+      "Range": 40,
+      "Gold": 0,
+      "Mana": 10,
+      "Crystals": 10
+    }
+  }
+]

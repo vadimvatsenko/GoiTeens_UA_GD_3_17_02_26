@@ -1,17 +1,43 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
+public class Program
 {
-    internal class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
+        
 
-        }
     }
 }
+
+public class Player
+{
+    public int PositionX { get; private set; } = 0;
+    public void Attack(Enemy enemy, int damage)
+    {
+        enemy.TakeDamage(damage);
+    }
+}
+
+public class Enemy
+{
+    public int Name { get; private set; }
+    private int _health = 100;
+    public int PositinX {get; private set;}
+
+    public Enemy(int name)
+    {
+        Name = name;
+        PositinX = new Random().Next(0,10);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        _health -= damage;
+        if (_health <= 0)
+        {
+            _health = 0;
+        }
+        Console.WriteLine($"Enemy {Name} -  {_health} health left.");
+    }
+}
+

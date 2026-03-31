@@ -1,0 +1,15 @@
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\bin\Debug\net9.0\Lesson_13_02.exe
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\bin\Debug\net9.0\Lesson_13_02.deps.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\bin\Debug\net9.0\Lesson_13_02.runtimeconfig.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\bin\Debug\net9.0\Lesson_13_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\bin\Debug\net9.0\Lesson_13_02.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.AssemblyInfoInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.AssemblyInfo.cs
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.csproj.CoreCompileInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.sourcelink.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\refint\Lesson_13_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\Lesson_13_02.genruntimeconfig.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок №13 Цикли Цикл for — основи та практичне застосування\Lesson_13_02\obj\Debug\net9.0\ref\Lesson_13_02.dll

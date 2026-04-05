@@ -1,0 +1,15 @@
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\bin\Debug\net9.0\ConsoleClock.exe
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\bin\Debug\net9.0\ConsoleClock.deps.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\bin\Debug\net9.0\ConsoleClock.runtimeconfig.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\bin\Debug\net9.0\ConsoleClock.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\bin\Debug\net9.0\ConsoleClock.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.AssemblyInfoInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.AssemblyInfo.cs
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.csproj.CoreCompileInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.sourcelink.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\refint\ConsoleClock.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ConsoleClock.genruntimeconfig.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\ConsoleClock\obj\Debug\net9.0\ref\ConsoleClock.dll

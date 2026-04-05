@@ -1,0 +1,15 @@
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\bin\Debug\net9.0\Lesson_14_02.exe
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\bin\Debug\net9.0\Lesson_14_02.deps.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\bin\Debug\net9.0\Lesson_14_02.runtimeconfig.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\bin\Debug\net9.0\Lesson_14_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\bin\Debug\net9.0\Lesson_14_02.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.AssemblyInfoInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.AssemblyInfo.cs
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.csproj.CoreCompileInputs.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.sourcelink.json
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\refint\Lesson_14_02.dll
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.pdb
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\Lesson_14_02.genruntimeconfig.cache
+P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\Урок 14 Цикли Цикл while та do-while\Lesson_14_02\obj\Debug\net9.0\ref\Lesson_14_02.dll

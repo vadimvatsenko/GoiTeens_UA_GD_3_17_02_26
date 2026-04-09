@@ -1,0 +1,15 @@
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\bin\Debug\net9.0\Lesson_16_01.exe
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\bin\Debug\net9.0\Lesson_16_01.deps.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\bin\Debug\net9.0\Lesson_16_01.runtimeconfig.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\bin\Debug\net9.0\Lesson_16_01.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\bin\Debug\net9.0\Lesson_16_01.pdb
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.AssemblyInfoInputs.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.AssemblyInfo.cs
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.csproj.CoreCompileInputs.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.sourcelink.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\refint\Lesson_16_01.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.pdb
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\Lesson_16_01.genruntimeconfig.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\Урок 16 Масиви заповнення та формування\Lesson_16_01\obj\Debug\net9.0\ref\Lesson_16_01.dll

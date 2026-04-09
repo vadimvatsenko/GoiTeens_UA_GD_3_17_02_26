@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Projects\\Rider\\GoiTeens_UA_GD_3_17_02_26\\Symple\\Symple.csproj",
+      "projectUniqueName": "P:\\Projects and Documents\\Unity Project\\GoiTeens_UA_GD_3_17_02_26\\Symple\\Symple.csproj",
       "projectName": "Symple",
-      "projectPath": "P:\\Projects\\Rider\\GoiTeens_UA_GD_3_17_02_26\\Symple\\Symple.csproj",
+      "projectPath": "P:\\Projects and Documents\\Unity Project\\GoiTeens_UA_GD_3_17_02_26\\Symple\\Symple.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "P:\\Projects\\Rider\\GoiTeens_UA_GD_3_17_02_26\\Symple\\obj\\",
+      "outputPath": "P:\\Projects and Documents\\Unity Project\\GoiTeens_UA_GD_3_17_02_26\\Symple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,9 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -126,13 +126,15 @@ class Program
         // Ініціалізуємо порожнє поле
         InitializeGameBoard();
         
-        // Розраховуємо кількість стін на основі відсотків
-        int totalCells = rows * cols;
         // загальна кількість клітинок
+        int totalCells = rows * cols;
+        // Розраховуємо кількість стін на основі відсотків
         int wallsCount = totalCells * wallPercent / 100;
         
+        // Створюємо об'єкти на полі згідно підрахунків
         CreateObjects(wallsCount, wallSymbol);
         
+        // Відображаємо поле
         PrintGameBoard();
         
         Console.ReadKey();

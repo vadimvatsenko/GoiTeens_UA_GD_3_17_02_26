@@ -13,3 +13,18 @@ P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\refin
 P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.pdb
 P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.genruntimeconfig.cache
 P:\Projects\Rider\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\ref\HomeWorkCheck.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\bin\Debug\net9.0\HomeWorkCheck.exe
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\bin\Debug\net9.0\HomeWorkCheck.deps.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\bin\Debug\net9.0\HomeWorkCheck.runtimeconfig.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\bin\Debug\net9.0\HomeWorkCheck.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\bin\Debug\net9.0\HomeWorkCheck.pdb
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.AssemblyInfoInputs.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.AssemblyInfo.cs
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.csproj.CoreCompileInputs.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.sourcelink.json
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\refint\HomeWorkCheck.dll
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.pdb
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\HomeWorkCheck.genruntimeconfig.cache
+P:\Projects and Documents\Unity Project\GoiTeens_UA_GD_3_17_02_26\HomeWorkCheck\obj\Debug\net9.0\ref\HomeWorkCheck.dll

@@ -1,137 +1,37 @@
-﻿
+﻿namespace HomeWorkCheck;
 
-using System;
 
-namespace WeaponsGame
+internal class Program
 {
-    class Weapon
+    static void Main(string[] args)
     {
-        public string Name { get; set; }
-        public int Damage { get; set; }
-        protected int usageCount = 0;
-
-        public Weapon(string name, int damage)
+        Dictionary<string, int> prices = new Dictionary<string, int>()
         {
-            Name = name;
-            Damage = damage;
+            { "Хліб", 20 },
+            { "Яблуко", 10 }
+        };
+
+        Dictionary<string, int> cart = new Dictionary<string, int>()
+        {
+            { "Хліб", 2 },
+            { "Яблуко", 3 }
+        };
+
+        int total = 0;
+
+        foreach (var item in cart)
+        {
+            total += prices[item.Key] * item.Value;
         }
 
-        public virtual void Attack()
-        {
-            usageCount++;
-            double fatigue = 1 - (usageCount * 0.1);
-            if (fatigue < 0.5) fatigue = 0.5;
+        Console.WriteLine("Сума: " + total);
 
-            int finalDamage = (int)(Damage * fatigue);
-            Console.WriteLine($"{Name} атакує на {finalDamage}");
-        }
-
-        public virtual void DisplayWeaponStats()
-        {
-            Console.WriteLine($"Зброя: {Name}, Шкода: {Damage}");
-        }
-    }
-
-    class Sword : Weapon
-    {
-        public double BladeLength { get; set; }
-        public bool IsSharpened { get; set; } = false;
-
-        public Sword(string name, int damage, double bladeLength)
-            : base(name, damage)
-        {
-            BladeLength = bladeLength;
-        }
-
-        public override void Attack()
-        {
-            base.Attack();
-            Console.WriteLine($"Лезо: {BladeLength} см");
-        }
-
-        public void SpecialAttack()
-        {
-            Console.WriteLine($"Спец атака: {Damage * 2}");
-        }
-
-        public void Sharpen()
-        {
-            if (!IsSharpened)
-            {
-                Damage += 10;
-                IsSharpened = true;
-            }
-        }
-
-        public override void DisplayWeaponStats()
-        {
-            base.DisplayWeaponStats();
-            Console.WriteLine($"Лезо: {BladeLength}, Заточений: {IsSharpened}");
-        }
-    }
-
-    class Bow : Weapon
-    {
-        public int ArrowCount { get; set; }
-        private int maxArrows;
-
-        public Bow(string name, int damage, int arrows)
-            : base(name, damage)
-        {
-            ArrowCount = arrows;
-            maxArrows = arrows;
-        }
-
-        public override void Attack()
-        {
-            if (ArrowCount > 0)
-            {
-                ArrowCount--;
-                base.Attack();
-                Console.WriteLine($"Стріли: {ArrowCount}");
-            }
-            else
-            {
-                Console.WriteLine("Немає стріл");
-            }
-        }
-
-        public void SpecialAttack()
-        {
-            Console.WriteLine($"Масова шкода: {Damage * ArrowCount}");
-            ArrowCount = 0;
-        }
-
-        public void Reload()
-        {
-            ArrowCount = maxArrows;
-        }
-
-        public override void DisplayWeaponStats()
-        {
-            base.DisplayWeaponStats();
-            Console.WriteLine($"Стріли: {ArrowCount}/{maxArrows}");
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Sword sword = new Sword("Меч", 30, 80);
-            Bow bow = new Bow("Лук", 15, 5);
-
-            sword.DisplayWeaponStats();
-            bow.DisplayWeaponStats();
-
-            sword.Attack();
-            sword.Sharpen();
-            sword.SpecialAttack();
-
-            bow.Attack();
-            bow.SpecialAttack();
-            bow.Reload();
-            bow.Attack();
-        }
+        Console.ReadKey();
     }
 }
+
+
+
+
+
+

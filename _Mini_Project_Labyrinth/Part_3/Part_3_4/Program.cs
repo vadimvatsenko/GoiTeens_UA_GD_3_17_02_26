@@ -58,6 +58,13 @@ class Program
         while (true)
         {
             
+            if (health <= 0)
+            {
+                Console.WriteLine("Hero Dead!");
+                Thread.Sleep(5000);
+                return;
+            }
+            
             int[] direction = CheckInput();
             
             MovePlayer(direction, playerSymbol);
@@ -79,11 +86,6 @@ class Program
             {
                 Console.ForegroundColor = GetColor(uiEl.Substring(0, 1));
                 Console.Write(uiEl + ", ");
-            }
-
-            if (health <= 0)
-            {
-                //PlayLevel(12, 20, 20, 5,5,10,10);
             }
             
             Console.WriteLine();
@@ -188,6 +190,7 @@ class Program
     // len/wid — розміри; percentages — відсотки об'єктів від загальної кількості клітин
     private static void PlayLevel(int len, int wid, int wallPercent, int coinsPercent, int bombsPercent, int healPercent, int spikesPercent)
     {
+        ResetVariables();
         // Виводимо заставку(ASCII art)
         SayWelcome();
         // Встановлюємо глобальні розміри через локальні параметри
@@ -352,5 +355,14 @@ class Program
             default:
                 break;
         }
+    }
+
+    private static void ResetVariables()
+    {
+        hasKey = false;
+        exitOpen = false;
+        bombs = 0;
+        lastPlayerSymbol = ".";
+        health = maxHealth;
     }
 }

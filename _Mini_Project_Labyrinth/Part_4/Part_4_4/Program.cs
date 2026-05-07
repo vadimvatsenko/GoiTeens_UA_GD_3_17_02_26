@@ -1,5 +1,4 @@
 ﻿// 4. Етап 3 — Розумний спавн ключа та дверей
-
 using System;
 
 class Program
@@ -271,7 +270,22 @@ class Program
                 return;
             }
             
-            int[] direction = CheckInput();
+            ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+
+            if (keyInfo.Key == ConsoleKey.Escape)
+            {
+                Console.WriteLine("Exit Game");
+                Console.ReadKey();
+                return;
+            }
+            else if (keyInfo.Key == ConsoleKey.R)
+            {
+                Console.WriteLine("Reset Game");
+                Console.ReadKey();
+                return;
+            }
+            
+            int[] direction = CheckInput(keyInfo);
             
             MovePlayer(direction, playerSymbol);
             CheckSymbol();
@@ -325,10 +339,9 @@ class Program
         gameBoard[x, y] = playerSymbol;
     }
 
-    private static int[] CheckInput()
+    private static int[] CheckInput(ConsoleKeyInfo keyInfo)
     {
-        ConsoleKeyInfo keyInfo = Console.ReadKey(true);
-
+        
         switch (keyInfo.Key)
         {
             case ConsoleKey.UpArrow or ConsoleKey.W: 

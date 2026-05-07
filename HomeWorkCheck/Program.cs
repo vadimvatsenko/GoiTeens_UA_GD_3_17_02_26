@@ -1,37 +1,38 @@
-﻿namespace HomeWorkCheck;
+﻿using System;
 
-
-internal class Program
+namespace ConsoleApp1
 {
-    static void Main(string[] args)
+    // це перечислення
+    internal class Program
     {
-        Dictionary<string, int> prices = new Dictionary<string, int>()
-        {
-            { "Хліб", 20 },
-            { "Яблуко", 10 }
-        };
 
-        Dictionary<string, int> cart = new Dictionary<string, int>()
+        static void Main(string[] args)
         {
-            { "Хліб", 2 },
-            { "Яблуко", 3 }
-        };
+            int numb = 25;
+            
+            int tens = numb / 10;
+            int hundred = numb % 10;
+            
+            Console.WriteLine(hundred + " " + tens);
 
-        int total = 0;
+            string tensString = tens switch
+            {
+                2 => "Двадцять",
+                3 => "Тридцять"
+            };
 
-        foreach (var item in cart)
-        {
-            total += prices[item.Key] * item.Value;
+            string hunsString = hundred switch
+            {
+                1 => "Один",
+                5 => "П'ять"
+            };
+            
+            Console.WriteLine(tensString + " " + hunsString);
+            
+            Console.ReadKey();
         }
-
-        Console.WriteLine("Сума: " + total);
-
-        Console.ReadKey();
     }
 }
-
-
-
 
 
 
